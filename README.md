@@ -6,8 +6,11 @@ The application accelerates the preparation for aerodynamic analysis and optimiz
 
 
 Input formats with airfoil geometry: Selig (dat), Lednicer (dat), NASA/OpenVSP (af)
+
 Output formats for mesh: su2, msh, msh1, unv, vrml, ply2, stl, mesh, bdf, diff, med, … (see Gmsh)
+
 Input formats with mesh: su2, msh (ASCII v2)
+
 Output formats for airfoil geometry: Selig (dat), Lednicer (dat), geo
 
 
