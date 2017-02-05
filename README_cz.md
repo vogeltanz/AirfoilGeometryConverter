@@ -1,6 +1,5 @@
 # Airfoil Geometry Converter
 <BR>
-<BR>
 Software: Airfoil Geometry Converter
 <BR>
 Aplikace umožňuje zrychlení přípravy na aerodynamickou analýzu a optimalizaci profilu křídla pomocí CFD softwaru a usnadňuje nasazení optimalizovaného profilu křídla do reálného návrhu letounu. Aplikace přispívá ke snížení finančních nákladů na vývoj a nasazení nových vylepšených profilů křídel, které mohou pozitivně ovlivnit aerodynamiku a spotřebu paliva letounu využívající tyto profily. Airfoil Geometry Converter je konzolová aplikace, která převádí soubory se souřadnicemi z/do formátu běžně používaného pro profily křídel (Selig, Lednicer a NASA/OpenVSP). Aplikaci lze využít jako generátor mesh souborů s profily pro aerodynamickou analýzu v CFD softwaru; např. v SU2, OpenFOAM apod. Soubory lze také převést zpětně pro případ, že se za pomocí CFD softwaru provedou např. optimalizace zkoumaného profilu a je požadováno, aby byl výsledný soubor se souřadnicemi použit pro křídlo v reálném návrhu letounu. Výsledný optimalizovaný profil je pak možné využít v CAD a parametrických programech, specializujících se na letecké inženýrství; jako je např. OpenVSP.
