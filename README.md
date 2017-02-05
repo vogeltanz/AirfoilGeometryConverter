@@ -22,7 +22,7 @@ C. Geuzaine and J.-F. Remacle. Gmsh: a three-dimensional finite element mesh gen
 <BR>
 <BR>
 <BR>
-<b>If you use this software please cite the following references in your work (books, articles, reports, etc.):<b/>
+<b>If you use this software please cite the following references in your work (books, articles, reports, etc.):</b>
 <BR>
 URL:<BR>
 https://github.com/vogeltanz/AirfoilGeometryConverter
