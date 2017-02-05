@@ -25,3 +25,15 @@ http://gmsh.info/
 nebo
 <BR>
 C. Geuzaine and J.-F. Remacle. Gmsh: a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities. International Journal for Numerical Methods in Engineering 79(11), pp. 1309-1331, 2009
+<BR>
+<BR>
+<BR>
+Pokud používáte tento software, prosím, citujte následující reference ve vaší práci (knihy, články, reporty, atd.):
+<BR>
+URL:<BR>
+https://github.com/vogeltanz/AirfoilGeometryConverter
+<BR>
+článek:<BR>
+Vogeltanz, Tomas. 2017. Airfoil Geometry Converter: From Selig and Lednicer to GEO and Mesh Formats.
+AIP Conference Proceedings. ISSN: 0094-243X. (přijato, v tisku. Dodatečné údaje budou přidány v průběhu roku 2017)
+
