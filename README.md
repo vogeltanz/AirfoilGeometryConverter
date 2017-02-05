@@ -18,5 +18,5 @@ Output formats for airfoil geometry: Selig (dat), Lednicer (dat), geo
 Airfoil Geometry Converter uses Gmsh as external program (by using commands)<BR>
 see:<BR>http://gmsh.info/
 <BR>or<BR>
-<b>C. Geuzaine and J.-F. Remacle. Gmsh: a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities. International Journal for Numerical Methods in Engineering 79(11), pp. 1309-1331, 2009</b>
+C. Geuzaine and J.-F. Remacle. Gmsh: a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities. International Journal for Numerical Methods in Engineering 79(11), pp. 1309-1331, 2009
 
