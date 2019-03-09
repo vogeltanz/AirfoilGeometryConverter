@@ -34,5 +34,5 @@ https://github.com/vogeltanz/AirfoilGeometryConverter
 <BR>
 článek:<BR>
 Vogeltanz, Tomas. 2017. Airfoil Geometry Converter: From Selig and Lednicer to GEO and Mesh Formats.
-AIP Conference Proceedings. ISSN: 0094-243X. (přijato, v tisku. Dodatečné údaje budou přidány v průběhu roku 2017)
+AIP Conference Proceedings. vol. 1863. ISSN: 0094-243X. DOI: 10.1063/1.4992254
 
