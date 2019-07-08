@@ -14,6 +14,9 @@ Vstupní formáty s meshí: su2, msh (ASCII v2)
 Výstupní formáty pro geometrii profilu: Selig (dat), Lednicer (dat), geo
 <BR>
 <BR>
+(Projekt byl vytvořen v CodeLite 4.8.1)
+<BR>
+<BR>
 <BR>
 Airfoil Geometry Converter používá Gmsh jako externí program (pomocí příkazů)
 <BR>
